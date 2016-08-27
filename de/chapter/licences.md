@@ -16,7 +16,6 @@ $cmu["licenses"] = array(
 ?>
 ```
 
-Im Array **licenses** können ein oder mehrere Lizenzschlüssel eingetragen werden. <.CONMUNICATOR> ist mit einem Lizenzschlüssel auf einer Top-Level-Domain oder Sub-Domain unbegrenzt lauffähig. Ohne eine Lizenzschlüssel ist die 30 Tage Trial-Version aktiv.
+Im Array **licenses** können ein oder mehrere Lizenzschlüssel eingetragen werden. Conmunicator ist mit einem Lizenzschlüssel auf einer Top-Level-Domain oder Sub-Domain unbegrenzt lauffähig. Ohne eine Lizenzschlüssel ist die 30 Tage Trial-Version aktiv.
 
-Lizenzschlüssel kann man hier erwerben:<br>
-http://goo.gl/forms/dGjC83mpWV
+Lizenzen sind auf der Homepage des Conmunicator zu erwerben!
