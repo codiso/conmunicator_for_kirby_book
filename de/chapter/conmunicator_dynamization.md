@@ -21,8 +21,7 @@ Damit entsprechende Feldinhalte mit Adobe Muse CC Elementen korrespondieren, mus
   
 | Insert-TAG: | Bedeutung: |
 | --- | --- |
-  | {{cmu\_section\_[NAME]}} | Inhalt eines Feldes aus Kirby. |
-  
+  | {{cmu\_content\_[NAME]}} | Inhalt eines Feldes aus Kirby. |
 
 | Platzhalter: | Ersetzung: |
 | --- | --- |
@@ -35,7 +34,11 @@ Durch die Definition eines Stils kann ein Snippet mit einem Adobe Muse CC Elemen
 
 | Stil: | Bedeutung: |
 | --- | --- |
-  | cmu\_snippet\_[NAME] | Inhalt eines Feldes aus Kirby. |
+  | cmu\_snippet\_[NAME] | Inhalt eines Snippets aus Kirby. |
+
+| Insert-TAG: | Bedeutung: |
+| --- | --- |
+  | {{cmu\_snippet\_[NAME]}} | Inhalt eines Snippets aus Kirby. |
 
 | Platzhalter: | Ersetzung: |
 | --- | --- |
