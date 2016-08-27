@@ -1,1 +1,2 @@
 * [Introduction](README.md)
+* [The Kirby-CMS](chapter/kirby-cms.md)
