@@ -2,7 +2,7 @@
 
 Durch die Anlage einer Adobe Muse CC Seite, mit dem Titel "**cmu_moodboard**", kann eine automatische Konvertierung von Stilen erfolgen. Das Ziel ist, die in Adobe Muse CC definierten Stile in einen andern Kontext zu überführen.
 
-In der Regel wird durch ein CMS, bei der Dynamisierung, ein differenter HTML-Code generiert. Dieser stimmt nicht mit dem HTML-Code von Adobe Muse CC überein. Aus diesem Grund werden Stile aus Adobe Muse CC nicht automatisch auf die Ausgabe vom CMS passen. Diesen Schritt soll das Moodboard erleichtern.
+In der Regel wird durch ein CMS, bei der Dynamisierung, ein differenter HTML-Code generiert. Dieser stimmt nicht mit dem HTML-Code von Adobe Muse CC überein. Aus diesem Grund werden Stile aus Adobe Muse CC nicht automatisch auf die Ausgabe des CMS passen. Diesen Schritt soll das Moodboard erleichtern.
 
 ## Beispiel
 In Adobe Muse CC ist ein Absatzstil für eine Hauptüberschrift angelegt. Diese soll in den Kontext eines Inhalselementes von Contao gebracht werden.
