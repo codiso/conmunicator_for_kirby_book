@@ -4,7 +4,7 @@ Die Datei "**site/templates/default.php**" ist das Template für die Nutzung des
 ```php
 <?php
 //==================================================================================
-// fe_conmunicator.html5
+// default.php
 //----------------------------------------------------------------------------------
 // Conmunicator. – Integrating Adobe Muse CC with a CMS
 //==================================================================================
