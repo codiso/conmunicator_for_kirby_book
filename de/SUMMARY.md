@@ -1,5 +1,5 @@
 # Summary
 
 * [Einleitung](README.md)
-* [Das Kirby-CMS](kirby-cms.md)
+* [Das Kirby-CMS](chapter/kirby-cms.md)
 
