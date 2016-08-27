@@ -16,7 +16,7 @@ Wird eine Website deutlich umfangreicher, so kann eine alternative Variante genu
 
 Durch spezielle Templates in Kirby, welche Kopien der ursprünglichen Datei "**default.php**" sind, wird es möglich einzelnen Seiten in Kirby ein eigenes Template zuzuweisen. Hierzu ist die Kopie entsprechend dem Seitennamen umzubenennen.
 
-Editiert man das Template, so ist es möglich eine feste Verbindung mit einer Adobe Muse CC Seite herbeizuführen.
+Editiert man das duplizierte Template, so ist es möglich eine feste Verbindung mit einer Adobe Muse CC Seite herbeizuführen.
 
 ```php
 <?php
