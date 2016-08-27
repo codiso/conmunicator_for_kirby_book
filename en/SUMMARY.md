@@ -3,8 +3,8 @@
 * [Introduction](README.md)
 * [The Kirby-CMS](chapter/kirby-cms.md)
 * Conmunicator
-  * Installation
-  * [Licences](chapter/licences.md)
+  * [Installation](chapter/conmunicator_installation.md)
+  * [Licences](chapter/conmunicator_licences.md)
 * [Adobe Muse CC](chapter/adobe_muse_cc.md)
 
 
