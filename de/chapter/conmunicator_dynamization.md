@@ -16,6 +16,6 @@ Damit entsprechende Feldinhalte mit Adobe Muse CC Elementen korrespondieren, mus
 
 | Stil: | Bedeutung: |
 | --- | --- |
-| cmu\_field\_[NAME] | Inhalt eines Feldes aus Kirby. |
+  | cmu\_content\_[NAME] | Inhalt eines Feldes aus Kirby. |
 
 
