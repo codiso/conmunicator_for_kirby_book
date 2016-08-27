@@ -41,4 +41,4 @@ include("conmunicator/core/conmunicator.php");
 ```
 
 ![](../images/cmu/conmunicator_template_n_1.png)
-
+Alle Seiten außer die Seite Impressum würden über das Default-Template mit 1:1 Matching ausgegeben. Die Seite Impressum hat eine eigene korrespondierende Seite und nutzt explizit diese zur Ausgabe.
