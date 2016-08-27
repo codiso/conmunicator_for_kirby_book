@@ -19,5 +19,23 @@ Durch spezielle Templates in Kirby, welche Kopien der ursprünglichen Datei "**d
 Editiert man das Template, so ist es möglich eine feste Verbindung mit einer Adobe Muse CC Seite herbeizuführen.
 
 ```php
+<?php
+//==================================================================================
+// default.php
+//----------------------------------------------------------------------------------
+// Conmunicator. – Integrating Adobe Muse CC with a CMS
+//==================================================================================
+session_start();
 
+$cmu["themePath"] 	= "conmunicator/export/";
+$cmu["dir"] 		= $cmu["themePath"]."muse/";
+$cmu["conf"] 		= array(
+							"templateFile" => "**special.html**",
+							"stripComments" => true,
+							"replaceJQuery"	=> false,
+							"centerPage" => false,
+						);
+
+include("conmunicator/core/conmunicator.php");
+?>
 ````
