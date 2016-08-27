@@ -2,5 +2,5 @@
 
 * [Einleitung](README.md)
 * [Das Kirby-CMS](chapter/kirby-cms.md)
-* [Installation des Conmunicator](install_conmunicator.md)
+* [Installation des Conmunicator](chapter/install_conmunicator.md)
 
