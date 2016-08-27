@@ -7,6 +7,7 @@
    * [Installation](chapter/conmunicator_installation.md)
    * [Licences](chapter/conmunicator_licences.md)
    * [Templates](chapter/conmunicator_templates.md)
+       * Configuration
    * [Dynamization](chapter/conmunicator_dynamization.md)
    * [Moodboard](chapter/conmunicator_moodboard.md)
 
