@@ -6,3 +6,6 @@ Conmunicator ist eine Bridge zwischen Adobe Muse CC und einem Content-Management
 Somit bleibt das Design-Projekt fester Bestandteil des Workflows und visuelle Änderungen können in Adobe Muse CC durchgeführt werden.
 
 Der dynamische Inhalt wird über das CMS zur Verfügung gestellt. Das individuelle Erstellen von passenden Templates innerhalb des genutzten CMS entfällt.
+
+Informations zum Conmunicator:
+* [Homepage](http://www.conmunicator.de/)
