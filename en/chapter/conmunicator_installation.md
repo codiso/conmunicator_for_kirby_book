@@ -6,7 +6,7 @@ After downloading you will find the .zip archive in your download folder. Unpack
 
 BILD
 
-Copy the folder named "communicator" to the root directory of your Contao installation. Copy the file "**default.php**" to the subdirectory **/site/templates**.
+Copy the folder "**/communicator**" into the root directory of your Kirby installation. Copy the files in the folder "**/templates**" to the directory **/site/templates**.
 
 BILD
 
