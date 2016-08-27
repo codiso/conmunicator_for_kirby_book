@@ -7,4 +7,5 @@ Genaue Informationen zu Adobe Muse CC findet man unter:
 * [Homepage des Produktes](http://muse.adobe.com/)
 * [Resourcen zum Produkt](http://resources.muse.adobe.com/collections/resources)
 * [Video Tutorials in Adobe TV](http://tv.adobe.com/de/product/muse/)
+* [YouTube](https://www.youtube.com/results?search_query=adobe+muse)
 
