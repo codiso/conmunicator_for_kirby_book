@@ -21,7 +21,7 @@ Editiert man das Template, so ist es möglich eine feste Verbindung mit einer Ad
 ```php
 <?php
 //==================================================================================
-// default.php
+// impressum.php
 //----------------------------------------------------------------------------------
 // Conmunicator. – Integrating Adobe Muse CC with a CMS
 //==================================================================================
@@ -30,7 +30,7 @@ session_start();
 $cmu["themePath"] 	= "conmunicator/export/";
 $cmu["dir"] 		= $cmu["themePath"]."muse/";
 $cmu["conf"] 		= array(
-							"templateFile" => "**special.html**",
+							"templateFile" => "template.html",
 							"stripComments" => true,
 							"replaceJQuery"	=> false,
 							"centerPage" => false,
