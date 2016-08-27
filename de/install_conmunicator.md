@@ -7,7 +7,7 @@ Nach dem Download befindet Sie die ZIP-Datei in Ihrem Download-Ordner. Nach dem 
 
 BILD
 
-Den Ordner Conmunicator kopieren Sie in das Wurzelverzeichniss Ihrer Kirby-Installation. Die Datei "default.php" legen Sie in dem Unterverzeichnis /site/templates ab.
+Den Ordner Conmunicator kopieren Sie in das Wurzelverzeichniss Ihrer Kirby-Installation. Die Datei "**default.php**" legen Sie in dem Unterverzeichnis **/site/templates** ab.
 
 BILD
 
