@@ -14,6 +14,10 @@ Dies entspricht einem 1:1 Matching, welches voraussetzt, dass jede Seite in Kirb
 
 Wird eine Website deutlich umfangreicher, so kann eine alternative Variante genutzt werden. Hierzu wird Adobe Muse CC zum Template-Generator für das CMS.
 
-Durch spezielle Templates in Kirby, welche Kopien der ursprünglichen Datei "**default.php**" sind, wird es möglich speziellen Seiten in Kirby ein eigenes Template zuzuweisen. Hierzu ist die Kopie entsprechend dem Seitennamen umzubenennen.
+Durch spezielle Templates in Kirby, welche Kopien der ursprünglichen Datei "**default.php**" sind, wird es möglich einzelnen Seiten in Kirby ein eigenes Template zuzuweisen. Hierzu ist die Kopie entsprechend dem Seitennamen umzubenennen.
 
-Editiert man das Template, so ist es möglich eine feste Verbindung mit einer Adobe Muse CC Seite herbeizuführen. 
+Editiert man das Template, so ist es möglich eine feste Verbindung mit einer Adobe Muse CC Seite herbeizuführen.
+
+```php
+
+````
