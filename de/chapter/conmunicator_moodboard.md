@@ -23,4 +23,4 @@ Besitzt der Text im Textrahmen schon den gewünschten Stil "**h1**", so ist alte
 {{css :: self | .ce_text h1}}
 ```
 
-Bei einem Export aus Adobe Muse CC werden automatisch alle Stile, aus der Moodboard-Seite, in ein eigenes CSS überführt und in die Contao-Seite eingesetzt.
+Bei einem Export aus Adobe Muse CC werden automatisch alle Stile, aus der Moodboard-Seite, in ein eigenes CSS überführt und in die Kirby-Seite eingesetzt.
