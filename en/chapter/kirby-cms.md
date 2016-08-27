@@ -16,4 +16,3 @@ A detailed description of the installation can be found in the Kirby [documentat
 Kirby kann problemlos mit [MAMP](https://www.mamp.info) oder [XAMPP](https://www.apachefriends.org/) lokal betrieben werden. Für einen Betrieb auf einem Live-Server ist eine Lizenz notwendig. Die [Kosten](https://getkirby.com/buy) sind erschwinglich und sollten nicht vor einem Einsatz von Kirby abschrecken.
 
 Kirby can easily be used with [MAMP](https://www.mamp.info) or [XAMPP](https://www.apachefriends.org/) for local operation. If you whant it to work on a live server a license is necessary . The [cost](https://getkirby.com/buy) for a licence is affordable and should not discourage the use of Kirby.
-
