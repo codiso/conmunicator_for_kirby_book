@@ -2,7 +2,6 @@
 To install Conmunicator, you must download the latest version from http://www.conmunicator.com.
 
 ![](../../de/images/installation/cmu_website.jpg)
-
 After downloading you will find the .zip archive in your download folder. Unpack the archive, and the shown file structure is present in the folder.
 
 BILD
