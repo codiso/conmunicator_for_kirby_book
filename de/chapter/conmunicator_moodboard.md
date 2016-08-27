@@ -8,7 +8,7 @@ In der Regel wird durch ein CMS, bei der Dynamisierung, ein differenter HTML-Cod
 In Adobe Muse CC ist ein Absatzstil für eine Hauptüberschrift angelegt. Diese soll in den Kontext eines Inhaltes von Kirby gebracht werden.
 
 
-|Stilbenamung in Adobe Muse CC|Element-Selektor in Contao|
+|Stilbenamung in Adobe Muse CC|Element-Selektor in Kirby|
 |-|-|
 |h1|div h1|
 
