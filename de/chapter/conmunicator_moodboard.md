@@ -20,7 +20,7 @@ Um dies in Adobe Muse CC zu definieren kann folgender Text in ein Textrahmen ein
 Besitzt der Text im Textrahmen schon den gewünschten Stil "**h1**", so ist alternativ folgende Schreibweise möglich. Das Schlüsselwort "**self**" verweist auf den verwendeten Stil "**h1**".
 
 ```
-{{css :: self | .ce_text h1}}
+{{css :: self | div h1}}
 ```
 
 Bei einem Export aus Adobe Muse CC werden automatisch alle Stile, aus der Moodboard-Seite, in ein eigenes CSS überführt und in die Kirby-Seite eingesetzt.
