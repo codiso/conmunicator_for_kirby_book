@@ -42,4 +42,4 @@ Durch die Definition eines Stils kann ein Snippet mit einem Adobe Muse CC Elemen
 
 | Platzhalter: | Ersetzung: |
 | --- | --- |
-| NAME | Name des Inhaltsfeldes aus Kirby. |
+| NAME | Name des Snippets aus Kirby. |
