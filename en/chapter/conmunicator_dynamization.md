@@ -28,7 +28,7 @@ Damit entsprechende Feldinhalte mit Adobe Muse CC Elementen korrespondieren, mus
 | NAME | Name des Inhaltsfeldes aus Kirby. |
 
 ## Snippets
-Snippets bieten die Möglichkeit Code-Elemente in einen Seite einfließen zu lassen. Diese sind im Ordner "**/site/snippets/**" abgelegt.
+Snippets bieten die Möglichkeit dynamische Code-Elemente in einen Seite einfließen zu lassen. Diese sind im Ordner "**/site/snippets/**" abgelegt.
 
 Durch die Definition eines Stils kann ein Snippet mit einem Adobe Muse CC Element verknüpft werden.
 
