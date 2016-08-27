@@ -18,4 +18,6 @@ Damit entsprechende Feldinhalte mit Adobe Muse CC Elementen korrespondieren, mus
 | --- | --- |
   | cmu\_content\_[NAME] | Inhalt eines Feldes aus Kirby. |
 
-
+| Platzhalter: | Ersetzung: |
+| --- | --- |
+| NAME | Name des Inhaltsfeldes aus Kirby. |
