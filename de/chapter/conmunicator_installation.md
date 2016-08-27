@@ -1,6 +1,6 @@
 # Installation des Conmunicator
 
-Um den Conmunicator zu installieren, müssen Sie diesen von [http://www.conmunicator.de/](http://www.conmunicator.de) herunterladen. Auf der Startseite finden Sie den Link für den Download der aktuellen Version.
+Um den Conmunicator zu installieren, müssen Sie diesen von [http://www.conmunicator.de/](http://www.conmunicator.de/) herunterladen. Auf der Startseite finden Sie den Link für den Download der aktuellen Version.
 ) herunterladen. Auf der Startseite finden Sie den Link für den Download der aktuellen Version.
 
 ![](../images/installation/cmu_website.jpg)
