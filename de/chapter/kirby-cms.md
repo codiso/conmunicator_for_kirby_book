@@ -12,5 +12,5 @@ Kirby kann als ZIP-Datei heruntergeladen werden und steht so schnell zur Install
 Eine genaue Beschreibung der Installation ist in der Kirby [Dokumentation](https://getkirby.com/docs/installation) enthalten. Mit dieser sind die einzelnen Schritte der Installation problemlos durchzuführen.
 
 ![](../images/kirby-cms/installation.jpg)
-Kirby kann problemlos mit MAMP oder XAMPP lokal betrieben werden. Für einen Betrieb auf einem Live-Server ist eine Lizenz notwendig.
+Kirby kann problemlos mit [MAMP](https://www.mamp.info) oder [XAMPP](https://www.apachefriends.org/) lokal betrieben werden. Für einen Betrieb auf einem Live-Server ist eine Lizenz notwendig. Die [Kosten](https://getkirby.com/buy) sind erschwinglich und sollten nicht vor einem Einsatz von Kirby abschrecken.
 
