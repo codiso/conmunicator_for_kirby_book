@@ -1,8 +1,12 @@
 # Das Kirby-CMS
 
-Kirby ist ein dateibasiertes CMS, welches ohne den Nutzen einer Datenbank auskommt. Es ist dadurch sehr schnell und auch auf einem günstigen Web-Space zu betreiben.
+Kirby ist ein kostenpflichtiges dateibasiertes CMS, welches ohne den Einsatz einer Datenbank auskommt. Es ist dadurch sehr schnell und auch auf einem schmalbrüstigen Web-Space sehr gut zu betreiben.
 
-![](../images/kirby-cms/homepage.png)
+![](../images/kirby-cms/homepage.jpg)
+Dennoch bietet Kirby viele Funktionalitäten um eine Website entsprechend zu verwalten. Strukturen werden durch Ordner abgebildet und Inhalte beruhen auf Dateien, die diesen zur Verfügung stellen. Der Kirby eigene Slogan "Easy to setup. Easy to use. Flexible as hell." beschreibt das CMS wohl am Besten.
+
+## Die Installation
+Kirby kann als ZIP-Datei heruntergeladen werden und steht so schnell zur Installation bereit. Die entsprechenden Downloads findet man unter https://getkirby.com/downloads.
 
 
 
