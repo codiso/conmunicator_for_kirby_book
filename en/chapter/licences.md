@@ -1,2 +1,2 @@
-# Lizenzen
+# Licences
 
