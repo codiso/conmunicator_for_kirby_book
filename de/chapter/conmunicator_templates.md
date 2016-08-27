@@ -1,5 +1,5 @@
 # Templates
-Die Verbindung zwischen Kirby und dem Conmunicator erfolgt über Templates. Kirby besitzt unter "**site/templates/**" ein Standard-Template mit dem namen "default.php".
+Die Verbindung zwischen Kirby und dem Conmunicator erfolgt über Templates. Kirby besitzt unter "**site/templates/**" ein Standard-Template mit dem Namen "default.php".
 
 Über dieses Template werden die Seiten aus dem CMS ausgegeben, sofern kein spezielles Template für eine Seite angelegt ist.
 
