@@ -7,4 +7,5 @@
    * [Installation](chapter/conmunicator_installation.md)
    * [Licences](chapter/conmunicator_licences.md)
    * Templates
+   * Dynamization
 
