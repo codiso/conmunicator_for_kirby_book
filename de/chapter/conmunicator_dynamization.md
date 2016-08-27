@@ -12,5 +12,7 @@ Aenean commodo ligula eget dolor.
 ```
 In dieser Textdatei sind zwei Felder definiert, die als Inhalte genutzt werden können.
 
+Damit entsprechende Feldinhalte mit Adobe Muse CC Elementen korrespondieren, muss ein Stil an dem betroffenen Adobe Muse CC Element definiert werden. In der Regel ist ein Grafikstil unter Adobe Muse CC der richtige Ansatzpunkt.
+
 
 
