@@ -42,4 +42,4 @@ include("conmunicator/core/conmunicator.php");
 
 ![](../../de/images/cmu/conmunicator_template_n_1.png)
 
-Every page exept the imprint, will be delivered by 1:1 matching using the default template.  The imprint page has it's own template and uses this explicitly.
+Every page exept the imprint, will be delivered by 1:1 matching using the default template.  The imprint page has it's own template and uses this exclusivly.
