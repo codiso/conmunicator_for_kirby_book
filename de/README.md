@@ -22,5 +22,3 @@ Codiso. Creative Code Development
 http://www.codiso.de/
 <br>
 info@codiso.de
-
-
