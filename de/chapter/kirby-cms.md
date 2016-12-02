@@ -8,7 +8,6 @@ Dennoch bietet Kirby viele Funktionalitäten um eine Website entsprechend zu ver
 ## Die Installation
 Kirby kann als ZIP-Datei heruntergeladen werden und steht so schnell zur Installation bereit. Die entsprechenden Downloads findet man unter [https://getkirby.com/downloads](https://getkirby.com/downloads).
 
-![](../images/kirby-cms/download.jpg)
 Eine genaue Beschreibung der Installation ist in der Kirby [Dokumentation](https://getkirby.com/docs/installation) enthalten. Mit dieser sind die einzelnen Schritte der Installation problemlos durchzuführen.
 
 ![](../images/kirby-cms/installation.jpg)
