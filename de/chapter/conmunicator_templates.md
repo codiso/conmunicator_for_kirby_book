@@ -21,7 +21,8 @@ Durch spezielle Templates in Kirby, welche Kopien der ursprünglichen Datei "**d
 Editiert man das duplizierte Template, so ist es möglich eine feste Verbindung mit einer Adobe Muse CC Seite herbeizuführen, indem das Attribut "**templateFile**" ensprechend mit einem festen Dateinamen belegt wird.
 
 ```php
-<?php
+<
+?php
 //==================================================================================
 // impressum.php
 //----------------------------------------------------------------------------------
@@ -29,13 +30,15 @@ Editiert man das duplizierte Template, so ist es möglich eine feste Verbindung 
 //==================================================================================
 session_start();
 
-$cmu["themePath"] 	= "conmunicator/export/";
-$cmu["dir"] 		= $cmu["themePath"]."muse/";
-$cmu["conf"] 		= array(
-							"templateFile" => "template.html",
-							"stripComments" => true,
-							"useContaoJQuery" => false,
-						);
+$cmu["themePath"] = "conmunicator/export/";
+$cmu["dir"] = $cmu["themePath"]."muse/";
+$cmu["conf"] = array(
+                      "templateFile" => "template.html",
+                      "stripComments" => true,
+                      "useContaoJQuery" => false,
+                      "centerPage" => false,
+                    );
+                      
 include("conmunicator/core/conmunicator.php");
 ?>
 ```
