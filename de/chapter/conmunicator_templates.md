@@ -34,8 +34,7 @@ $cmu["dir"] 		= $cmu["themePath"]."muse/";
 $cmu["conf"] 		= array(
 							"templateFile" => "template.html",
 							"stripComments" => true,
-							"replaceJQuery"	=> false,
-							"centerPage" => false,
+							"useContaoJQuery" => false,
 						);
 include("conmunicator/core/conmunicator.php");
 ?>
