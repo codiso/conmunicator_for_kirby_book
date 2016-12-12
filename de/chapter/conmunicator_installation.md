@@ -5,7 +5,8 @@ Um den Conmunicator zu installieren, müssen Sie diesen von [http://www.conmunic
 ![](../images/installation/cmu_website.jpg)
 Nach dem Download befindet Sie die ZIP-Datei in Ihrem Download-Ordner. Nach dem Entpacken des Archivs liegt die nachstehende Dateistruktur im gleichnamigen Ordner vor.
 
-BILD
+- **/conmunicator**
+- **/templates**
 
 Den Ordner "**/conmunicator**" kopieren Sie in das Wurzelverzeichniss Ihrer Kirby-Installation. Die Dateien unter "**/templates**" legen Sie in dem Unterverzeichnis **/site/templates** ab.
 
