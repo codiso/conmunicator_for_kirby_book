@@ -14,11 +14,11 @@ Dies entspricht einem 1:1 Matching, welches voraussetzt, dass jede Seite in Kirb
 
 ![](../images/cmu/conmunicator_template_1_1.png)
 
-Wird eine Website deutlich umfangreicher, so kann eine alternative Variante genutzt werden. Hierzu wird Adobe Muse CC zum Template-Generator für das CMS.
+Wird eine Website deutlich umfangreicher, so kann eine alternative Variante genutzt werden. Hierbei fungiert Adobe Muse CC als Template-Generator für das genutzte CMS.
 
 Durch spezielle Templates in Kirby, welche Kopien der ursprünglichen Datei "**default.php**" sind, wird es möglich einzelnen Seiten in Kirby ein eigenes Template zuzuweisen. Hierzu ist die Kopie entsprechend dem Seitennamen umzubenennen.
 
-Editiert man das duplizierte Template, so ist es möglich eine feste Verbindung mit einer Adobe Muse CC Seite herbeizuführen, indem das Attribut "**templateFile**" ensprechend belegt wird.
+Editiert man das duplizierte Template, so ist es möglich eine feste Verbindung mit einer Adobe Muse CC Seite herbeizuführen, indem das Attribut "**templateFile**" ensprechend mit einem festen Dateinamen belegt wird.
 
 ```php
 <?php
@@ -37,7 +37,6 @@ $cmu["conf"] 		= array(
 							"replaceJQuery"	=> false,
 							"centerPage" => false,
 						);
-
 include("conmunicator/core/conmunicator.php");
 ?>
 ```
