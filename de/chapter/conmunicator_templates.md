@@ -1,4 +1,5 @@
 # Templates
+
 Die Verbindung zwischen Kirby und dem Conmunicator erfolgt über Templates. Kirby besitzt unter "**site/templates/**" ein Standard-Template mit dem Namen "**default.php**".
 
 Über dieses Template werden die Seiten aus dem CMS ausgegeben, sofern kein spezielles Template für eine Seite angelegt wurde.
@@ -6,9 +7,10 @@ Die Verbindung zwischen Kirby und dem Conmunicator erfolgt über Templates. Kirb
 Hat man man den Conmunicator installiert, so wurde das Standard-Template durch eine entsprechend angepasste Version ersetzt.
 
 ## Verbindungen
+
 Die Verbindung zwischen den einzelnen Adobe Muse CC Seiten erfolgt im Standardfall über den Seitennamen. Besitzt Kirby eine Seite "**impressum**", so wird die entsprechende Adobe Muse CC Seite "**impressum.html**" referenziert.
 
-Dies entspricht einem 1:1 Matching, welches voraussetzt, dass jede Seite in Kirby eine entsprechende korrespondierende Seite in Adobe Muse CC besitzt. Für kleine bis mittlere Websites ist dies ein guter Weg.
+Dies entspricht einem 1:1 Matching, welches voraussetzt, dass jede Seite in Kirby eine entsprechende korrespondierende Seite in Adobe Muse CC besitzt. Für kleine bis mittlere Websites ist dies ein guter Weg um Inhalte schnell und unkompliziert zu dynamisieren.
 
 ![](../images/cmu/conmunicator_template_1_1.png)
 
