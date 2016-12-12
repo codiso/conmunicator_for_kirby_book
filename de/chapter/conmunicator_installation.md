@@ -9,6 +9,4 @@ Nach dem Download befindet Sie die ZIP-Datei in Ihrem Download-Ordner. Nach dem 
 
 Den Ordner "**/conmunicator**" kopieren Sie in das Wurzelverzeichniss Ihrer Kirby-Installation. Die Dateien unter "**/templates**" legen Sie in dem Unterverzeichnis "**/site/templates**" ab.
 
-BILD
-
 Der Conmunicator ist nun lokal einsatzbereit. Für den Betrieb auf einer Top-Level Domain, benötigen Sie eine entsprechende [Lizenz](lizenzen.md).
