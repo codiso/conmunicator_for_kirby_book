@@ -43,3 +43,10 @@ Durch die Definition eines Stils kann ein Snippet mit einem Adobe Muse CC Elemen
 | Platzhalter: | Ersetzung: |
 | --- | --- |
 | NAME | Name des Snippets aus Kirby. |
+
+Zusätzlich werden diese zwei Snippets automatisch in den HTML-Code integriert, sofern sie existieren:
+
+| Snippet: | Bedeutung: |
+| --- | --- |
+| cmu_head.php | Der Inhalt des Snippets wird am Ende des <head> Tag eingesetzt. |
+| cmu_body.php | Der Inhalt des Snippets wird am Ende des <body> Tag eingesetzt. |
