@@ -8,7 +8,7 @@ Nach dem Download befindet Sie die ZIP-Datei in Ihrem Download-Ordner. Nach dem 
 - **/conmunicator**
 - **/templates**
 
-Den Ordner "**/conmunicator**" kopieren Sie in das Wurzelverzeichniss Ihrer Kirby-Installation. Die Dateien unter "**/templates**" legen Sie in dem Unterverzeichnis **/site/templates** ab.
+Den Ordner "**/conmunicator**" kopieren Sie in das Wurzelverzeichniss Ihrer Kirby-Installation. Die Dateien unter "**/templates**" legen Sie in dem Unterverzeichnis "**/site/templates**" ab.
 
 BILD
 
