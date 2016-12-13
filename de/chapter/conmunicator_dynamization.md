@@ -44,7 +44,7 @@ Durch die Definition eines Stils kann ein Snippet mit einem Adobe Muse CC Elemen
 | --- | --- |
 | NAME | Name des Snippets aus Kirby. |
 
-Zusätzlich werden diese zwei Snippets automatisch in den HTML-Code integriert, sofern sie existieren:
+Zusätzlich werden diese folgend benamte Snippets automatisch in den HTML-Code integriert, sofern sie existieren:
 
 | Snippet: | Bedeutung: |
 | --- | --- |
