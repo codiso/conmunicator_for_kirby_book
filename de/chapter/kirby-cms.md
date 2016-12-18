@@ -1,4 +1,4 @@
- # Das Kirby-CMS
+# Das Kirby-CMS
 
 Kirby ist ein kostenpflichtiges dateibasiertes CMS, welches ohne den Einsatz einer Datenbank auskommt. Es ist dadurch sehr schnell und auch auf einem schmalbrüstigen Web-Space sehr gut zu betreiben.
 
