@@ -21,7 +21,7 @@ Damit entsprechende Feldinhalte mit Adobe Muse CC Elementen korrespondieren, mus
   
 | Insert-TAG: | Bedeutung: |
 | --- | --- |
-  | {{cmu\_content\_[NAME]}} | Inhalt eines Feldes aus Kirby. |
+  | \{\{cmu\_content\_[NAME]\}\} | Inhalt eines Feldes aus Kirby. |
 
 | Platzhalter: | Ersetzung: |
 | --- | --- |
