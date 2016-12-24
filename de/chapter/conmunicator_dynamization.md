@@ -17,15 +17,16 @@ Damit entsprechende Feldinhalte mit Adobe Muse CC Elementen korrespondieren, mus
 
 | Stil: | Bedeutung: |
 | --- | --- |
-  | cmu\_content\_[NAME] | Inhalt eines Feldes aus Kirby. |
+| cmu\_content\_[NAME] | Inhalt eines Feldes aus Kirby. |
   
 | Insert-TAG: | Bedeutung: |
 | --- | --- |
-  | \{\{cmu\_content\_[NAME]\}\} | Inhalt eines Feldes aus Kirby. |
+| \{\{cmu\_content\_[NAME]\}\} | Inhalt eines Feldes aus Kirby. |
+
 
 | Platzhalter: | Ersetzung: |
 | --- | --- |
-| NAME | Name des Inhaltsfeldes aus Kirby. |
+| NAME | Name des Elements aus Kirby. |
 
 ## Snippets
 Snippets bieten die Möglichkeit dynamische Code-Elemente in einen Seite einfließen zu lassen. Diese sind im Ordner "**/site/snippets/**" abgelegt. Eine genaue Beschreibung findet man in der [Dokumentation](https://getkirby.com/docs/templates/snippets) von Kirby.
@@ -42,7 +43,7 @@ Durch die Definition eines Stils kann ein Snippet mit einem Adobe Muse CC Elemen
 
 | Platzhalter: | Ersetzung: |
 | --- | --- |
-| NAME | Name des Snippets aus Kirby. |
+| NAME | Name des Elements aus Kirby. |
 
 Zusätzlich werden diese folgend benamte Snippets automatisch in den HTML-Code integriert, sofern sie existieren:
 
