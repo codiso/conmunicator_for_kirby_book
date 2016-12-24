@@ -38,7 +38,7 @@ Durch die Definition eines Stils kann ein Snippet mit einem Adobe Muse CC Elemen
 
 | Insert-TAG: | Bedeutung: |
 | --- | --- |
-  | {{cmu\_snippet\_[NAME]}} | Inhalt eines Snippets aus Kirby. |
+  | \{\{cmu\_content\_[NAME]\}\} | Inhalt eines Snippets aus Kirby. |
 
 | Platzhalter: | Ersetzung: |
 | --- | --- |
