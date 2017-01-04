@@ -32,7 +32,7 @@ Snippets bieten die Möglichkeit dynamische Code-Elemente in einen Seite einflie
 
 Durch die Definition eines Stils kann ein Snippet mit einem Adobe Muse CC Element verknüpft werden.
 
-| Stil: | Bedeutung: |
+| Style: | Bedeutung: |
 | --- | --- |
   | cmu\_snippet\_[NAME] | Inhalt eines Snippets aus Kirby. |
 
@@ -40,6 +40,21 @@ Durch die Definition eines Stils kann ein Snippet mit einem Adobe Muse CC Elemen
 | --- | --- |
   | \{\{cmu\_content\_[NAME]\}\} | Inhalt eines Snippets aus Kirby. |
 
-| Platzhalter: | Ersetzung: |
+| Placeholder: | Ersetzung: |
 | --- | --- |
 | NAME | Name des Snippets aus Kirby. |
+
+## Templates
+Through templates, it is possible to extract existing HTML code from the Adobe Muse CC design.
+
+Corresponding elements with a template style are stored in their own files and are thus available as a dynamic basis. They are located at **"/conmunicator/templates/[DEVICE]"**.
+
+Templates are stored for adaptive layouts, in the appropriate folders for the used device!
+
+| Style: | Bedeutung: |
+| --- | --- |
+| cmu_template_NAME | Content of a separate code template using the desired name.|
+
+| Placeholder: | Ersetzung: |
+| --- | --- |
+| NAME | Name of the template. |
