@@ -55,7 +55,8 @@ Zusätzlich werden diese folgend benamte Snippets automatisch in den HTML-Code i
 ## Templates
 | Stil: | Bedeutung: |
 | --- | --- |
-| cmu_template_NAME | Inhalt eines eigenen Code-Templates für ein Device unter Nutzung der Benamung. Die entsprechenden Dateien werden unter dem Pfad \/conmunicator\/templates\/**[DEVICE]** abgelegt. Existiert ein benanntes Code-Template noch nicht, wird dies automatisch als Datei erzeugt und der Inhalt des Templates wird aus dem HTML-Code entnommen.|
+| cmu_template_NAME | Inhalt eines eigenen Code-Templates für ein Device unter Nutzung der Benamung. Die entsprechenden Dateien werden unter dem Pfad "/conmunicator/templates/[DEVICE]" abgelegt. Existiert ein benanntes Code-Template noch nicht, wird dies automatisch als Datei erzeugt und der Inhalt des Tamplates wird aus dem HTML-Code entnommen.|
+|
 
 | Platzhalter: | Ersetzung: |
 | --- | --- |
