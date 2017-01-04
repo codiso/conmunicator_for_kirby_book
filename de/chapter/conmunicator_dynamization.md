@@ -61,7 +61,7 @@ Templates werden für adaptive Layouts, in den passenden Ordnern für das genutz
 
 | Stil: | Bedeutung: |
 | --- | --- |
-| cmu_template_NAME | Inhalt eines eigenen Code-Templates für ein Device unter Nutzung der Benamung.|
+| cmu_template_NAME | Inhalt eines eigenen Code-Templates unter Nutzung der Benamung.|
 
 | Platzhalter: | Ersetzung: |
 | --- | --- |
