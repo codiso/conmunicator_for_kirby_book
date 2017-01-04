@@ -51,3 +51,14 @@ Zusätzlich werden diese folgend benamte Snippets automatisch in den HTML-Code i
 | --- | --- |
 | cmu_head.php | Der Inhalt des Snippets wird am Ende des <head> Tag eingesetzt. |
 | cmu_body.php | Der Inhalt des Snippets wird am Ende des <body> Tag eingesetzt. |
+
+## Templates
+| Stil: | Bedeutung: |
+| --- | --- |
+| cmu_template_NAME | Inhalt eines eigenen Code-Templates für ein Device unter Nutzung der Benamung. Die entsprechenden Dateien werden unter dem Pfad \/conmunicator\/templates\/**[DEVICE]** abgelegt. Existiert ein benanntes Code-Template noch nicht, wird dies automatisch als Datei erzeugt und der Inhalt des Templates wird aus dem HTML-Code entnommen.|
+
+| Platzhalter: | Ersetzung: |
+| --- | --- |
+| NAME | Name des Templates aus Adobe Muse CC. |
+
+
