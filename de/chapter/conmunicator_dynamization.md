@@ -53,7 +53,11 @@ Zusätzlich werden diese folgend benamte Snippets automatisch in den HTML-Code i
 | cmu_body.php | Der Inhalt des Snippets wird am Ende des <body> Tag eingesetzt. |
 
 ## Templates
-Durch Templates wird es möglich bestehenden HTML-Code aus dem Adobe Muse CC Design zu extrahieren. Entsprechende Elemente mit einem Template Stil, werden in eigenen Dateien abgelegt und stehen so als dynamische Grundlage zur Verfügung. Der Speicherort befindet sich unter **"/conmunicator/templates/[DEVICE]"**. Templates werden in passenden Ordnern für das genutzte Device abgelegt!
+Durch Templates wird es möglich bestehenden HTML-Code aus dem Adobe Muse CC Design zu extrahieren.
+
+Entsprechende Elemente mit einem Template-Stil, werden in eigenen Dateien abgelegt und stehen so als dynamische Grundlage zur Verfügung. Der Speicherort befindet sich unter **"/conmunicator/templates/[DEVICE]"**. 
+
+Templates werden für adaptive Layouts, in den passenden Ordnern für das genutzte Device abgelegt!
 
 | Stil: | Bedeutung: |
 | --- | --- |
@@ -61,6 +65,6 @@ Durch Templates wird es möglich bestehenden HTML-Code aus dem Adobe Muse CC Des
 
 | Platzhalter: | Ersetzung: |
 | --- | --- |
-| NAME | Name des Templates aus Adobe Muse CC. |
+| NAME | Name des zu erzeugenden Templates. |
 
 
