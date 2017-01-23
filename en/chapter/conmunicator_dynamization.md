@@ -27,7 +27,7 @@ Damit entsprechende Feldinhalte mit Adobe Muse CC Elementen korrespondieren, mus
 
 | Platzhalter: | Ersetzung: |
 | --- | --- |
-| NAME | Name des Inhaltsfeldes aus Kirby. |
+| NAME | Name des Elements aus Kirby. |
 
 ## Snippets
 Snippets bieten die Möglichkeit dynamische Code-Elemente in einen Seite einfließen zu lassen. Diese sind im Ordner "**/site/snippets/**" abgelegt. Eine genaue Beschreibung findet man in der [Dokumentation](https://getkirby.com/docs/templates/snippets) von Kirby.
