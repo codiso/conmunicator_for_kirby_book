@@ -17,11 +17,13 @@ Damit entsprechende Feldinhalte mit Adobe Muse CC Elementen korrespondieren, mus
 
 | Stil: | Bedeutung: |
 | --- | --- |
-  | cmu\_content\_[NAME] | Inhalt eines Feldes aus Kirby. |
+| cmu\_page\_[NAME] | Inhalt eines Feldes aus dem $page Kontext. |
+| cmu\_site\_[NAME] | Inhalt eines Feldes aus dem $site Kontext. |
   
 | Insert-TAG: | Bedeutung: |
 | --- | --- |
-  | \{\{cmu\_content\_[NAME]\}\} | Inhalt eines Feldes aus Kirby. |
+| \{\{cmu\_page\_[NAME]\}\} | Inhalt eines Feldes aus dem $page Kontext. |
+| \{\{cmu\_site\_[NAME]\}\} | Inhalt eines Feldes aus dem $site Kontext. |
 
 | Platzhalter: | Ersetzung: |
 | --- | --- |
