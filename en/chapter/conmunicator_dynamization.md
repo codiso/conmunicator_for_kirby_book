@@ -60,4 +60,4 @@ Templates are stored for adaptive layouts, in the appropriate folders for the us
 
 | Placeholder: | Ersetzung: |
 | --- | --- |
-| NAME | Name of the template. |
+| NAME | Name of an existing or to create Template. |
