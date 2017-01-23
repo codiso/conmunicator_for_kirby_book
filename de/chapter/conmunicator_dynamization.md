@@ -36,11 +36,11 @@ Durch die Definition eines Stils kann ein Snippet mit einem Adobe Muse CC Elemen
 
 | Stil: | Bedeutung: |
 | --- | --- |
-  | cmu\_snippet\_[NAME] | Inhalt eines Lirby-Snippets. |
+| cmu\_snippet\_[NAME] | Inhalt eines Lirby-Snippets. |
 
 | Insert-TAG: | Bedeutung: |
 | --- | --- |
-  | \{\{cmu\_content\_[NAME]\}\} | Inhalt eines Kirby-Snippets. |
+| \{\{cmu\_content\_[NAME]\}\} | Inhalt eines Kirby-Snippets. |
 
 | Platzhalter: | Ersetzung: |
 | --- | --- |
@@ -66,6 +66,6 @@ Templates werden für adaptive Layouts, in den passenden Ordnern für das genutz
 
 | Platzhalter: | Ersetzung: |
 | --- | --- |
-| NAME | Name des zu erzeugenden Templates. |
+| NAME | Name des zu nutzenden/erzeugenden Templates. |
 
 
