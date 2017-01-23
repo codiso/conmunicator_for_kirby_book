@@ -34,17 +34,18 @@ Snippets bieten die Möglichkeit dynamische Code-Elemente in einen Seite einflie
 
 Durch die Definition eines Stils kann ein Snippet mit einem Adobe Muse CC Element verknüpft werden.
 
-| Style: | Bedeutung: |
+| Stil: | Bedeutung: |
 | --- | --- |
-  | cmu\_snippet\_[NAME] | Inhalt eines Snippets aus Kirby. |
+| cmu\_snippet\_[NAME] | Inhalt eines Lirby-Snippets. |
 
 | Insert-TAG: | Bedeutung: |
 | --- | --- |
-  | \{\{cmu\_content\_[NAME]\}\} | Inhalt eines Snippets aus Kirby. |
+| \{\{cmu\_content\_[NAME]\}\} | Inhalt eines Kirby-Snippets. |
 
-| Placeholder: | Ersetzung: |
+| Platzhalter: | Ersetzung: |
 | --- | --- |
-| NAME | Name des Snippets aus Kirby. |
+| NAME | Name des Kirby-Snippets. |
+
 
 ## Templates
 Through templates, it is possible to extract existing HTML code from the Adobe Muse CC design.
