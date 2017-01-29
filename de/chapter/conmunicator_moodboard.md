@@ -3,6 +3,8 @@ Durch die Anlage einer Adobe Muse CC Seite, mit dem Titel "**cmu_moodboard**", k
 
 In der Regel wird durch ein CMS, bei der Dynamisierung, ein differenter HTML-Code generiert. Dieser stimmt nicht mit dem HTML-Code von Adobe Muse CC überein. Aus diesem Grund, werden Stile aus Adobe Muse CC, nicht automatisch auf die Ausgabe des CMS passen. Diesen Schritt soll das Moodboard erleichtern.
 
+**Für eine korrekte Funktionalität sollte in Adobe Muse CC die Kompression der CSS-Daten abgeschaltet werden!**
+
 ## Beispiel
 In Adobe Muse CC ist ein Absatzstil für eine Hauptüberschrift angelegt. Diese soll in den Kontext eines Inhaltes von Kirby gebracht werden.
 
