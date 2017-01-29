@@ -23,10 +23,10 @@ include("conmunicator/core/conmunicator.php");
 ?>
 ```
 #themePath
-Pfad auf den Ordner in dem die Adobe Muse CC Exporte zu finden sein werden. Der Pfad kann bei Bedarf abgeändert werden.
+Pfad auf den Ordner in dem die Adobe Muse CC Exporte, in den jeweiligen Unterordnern, zu finden sein werden. Der Pfad kann bei Bedarf abgeändert werden.
 
 #dir
-Pfad auf die exportierte Adobe Muse CC Site. Kann bei Bedarf abgeändert werden.
+Pfad auf den Unterordner der exportierten Adobe Muse CC Site. Kann bei Bedarf abgeändert werden.
 
 #conf
 | Parameter: | Werte: |Bedeutung: |
