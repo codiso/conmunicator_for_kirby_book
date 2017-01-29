@@ -30,15 +30,15 @@ Editiert man das duplizierte Template, so ist es möglich eine feste Verbindung 
 //==================================================================================
 session_start();
 
-$cmu["themePath"] = "conmunicator/export/";
-$cmu["dir"] = $cmu["themePath"]."muse/";
-$cmu["conf"] = array(
-                      "templateFile" => "template.html",
-                      "stripComments" => true,
-                      "useContaoJQuery" => false,
-                      "centerPage" => false,
-                    );
-                      
+$cmu["themePath"] 	= "conmunicator/export/";
+$cmu["dir"] 		= $cmu["themePath"]."muse/";
+$cmu["conf"] 		= array(
+							"templateFile" => "template.html",
+							"stripComments" => true,
+							"replaceJQuery"	=> false,
+							"centerPage" => false,
+						);
+						
 include("conmunicator/core/conmunicator.php");
 ?>
 ```
