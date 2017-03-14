@@ -13,6 +13,7 @@
     * [For Programmers](chapter/conmunicator_dynamization/fuer-programmierer.md)
       * [Templating](chapter/conmunicator_dynamization/fuer-programmierer/templating.md)
       * [Content Mapping](chapter/conmunicator_dynamization/fuer-programmierer/content-mapping.md)
+      * [File Mapping](chapter/conmunicator_dynamization/fuer-programmierer/file-mapping.md)
   * [Moodboard](chapter/conmunicator_moodboard.md)
   * [Adobe Muse Export](chapter/conmunicator_muse_export.md)
 
