@@ -1,4 +1,4 @@
-# Für Programmierer …
+# Für Programmierer
 
 Betrachtet man die Seite der Gestaltung aus Sicht des Adobe Muse CC Projektes, so sind Stile die einfachste und unkomplizierteste Art dynamische Inhalte aus dem CMS mit dem statischen Layout zu verbinden.
 
