@@ -19,6 +19,3 @@ To change content in the HTML document, Conmunicator provides several functions.
 |replace_element_by_id($id,$html)|The function replaces the complete HTML-Element with the used **id**.|
 |replace_content_by_class($class,$html)|The function replaces the content of an HTML element with the used **class**.|
 |replace_element_by_class($id,$html)|The function replaces the complete HTML-Element with the used **class**.|
-
-
-
