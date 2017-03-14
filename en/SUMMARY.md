@@ -9,7 +9,7 @@
   * [Templates](chapter/conmunicator_templates.md)
     * [Configuration](chapter/conmunicator_configuration.md)
   * [Dynamization](chapter/conmunicator_dynamization.md)
-    * [For Programmers](chapter/conmunicator_dynamization/fuer_programmierer.md)
+    * [For Programmers](chapter/conmunicator_dynamization/fuer-programmierer.md)
   * [Moodboard](chapter/conmunicator_moodboard.md)
   * [Adobe Muse Export](chapter/conmunicator_muse_export.md)
 
