@@ -10,7 +10,7 @@ file_mapping("alias","fname");
 
 Für **fname** tragen Sie den Dateinamen der Adobe Muse CC Datei ohne die Endung ".html" ein.
 
-| Alias: | Bedeutung: |
+| Function | Description |
 | -- | -- |
 | * |Alle Seiten werden mit der zugewiesenen Datei verknüpft.|
 | alias |Eine Seite mit dem Seitenalias wird mit der zugewiesenen Datei verknüpft. Diese Angabe dominiert die Wildcard-Verknüpfung.|
