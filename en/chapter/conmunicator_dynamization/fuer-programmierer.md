@@ -1,4 +1,4 @@
-# For Programmers …
+# For Programmers
 Looking at the side of design from the perspective of an Adobe-MUSE project, styles are the easiest and most straightforward way to connect dynamic content from the CMS to the static layout.
 
 For complicated requirements, styles ar not enough to reach your target. You will need more control over the allocation of dynamic content to DOM elements of the HTML document.
