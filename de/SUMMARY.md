@@ -11,6 +11,7 @@
   * [Dynamisierung](chapter/conmunicator_dynamization.md)
     * [Mehrsprachigkeit](chapter/conmunicator_dynamization/mehrsprachigkeit.md)
     * [Für Programmierer](chapter/conmunicator_dynamization/fuer-programmierer.md)
+      * [Templating](chapter/conmunicator_dynamization/fuer-programmierer/templating.md)
       * [Content Mapping](chapter/conmunicator_dynamization/fuer-programmierer/content-mapping.md)
   * [Moodboard](chapter/conmunicator_moodboard.md)
   * [Adobe Muse Export](chapter/conmunicator_muse_export.md)
