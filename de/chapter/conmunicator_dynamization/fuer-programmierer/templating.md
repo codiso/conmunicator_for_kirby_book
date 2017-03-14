@@ -8,5 +8,5 @@ Dies füht dazu, dass das normale Alias-Mapping außer Kraft gesetzt wird. Nutzt
 
 Dupliziert man die Datei **default.php** und ändert den Dateinahmen in **[etwasAnderes].php**, so kann die Datei in weiteren Kirby-Seiten als Template verwendet werden.
 
-
+https://getkirby.com/docs/templates
 
