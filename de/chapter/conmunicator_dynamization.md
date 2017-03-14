@@ -50,8 +50,8 @@ Zusätzlich werden diese folgend benamte Snippets automatisch in den HTML-Code i
 
 | Snippet: | Bedeutung: |
 | --- | --- |
-| cmu\_head.php | Der Inhalt des Snippets wird am Ende des <head> Tag eingesetzt. |
-| cmu\_body.php | Der Inhalt des Snippets wird am Ende des <body> Tag eingesetzt. |
+| cmu\_head.php | Der Inhalt des Snippets wird am Ende des head-Tag eingesetzt. |
+| cmu\_body.php | Der Inhalt des Snippets wird am Ende des body-Tag eingesetzt. |
 
 ## Templates
 Durch Templates wird es möglich bestehenden HTML-Code aus dem Adobe Muse CC Design zu extrahieren.
