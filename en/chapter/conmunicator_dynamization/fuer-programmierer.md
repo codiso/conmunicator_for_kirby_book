@@ -32,3 +32,15 @@ Each of these folders contain files for controlling the above-mentioned types.
 In the current version of Adobe-MUSE layouts can be complete responsive. With CSS media queries the look and feel of an site is set up visually for different devices.
 
 In this case you can only use the folder **/desktop**.
+
+## Device Detection
+
+In all variants of the responsive layout an appropriate CSS class will be noted on the body tag.
+
+| Device: | CSS-Class: |
+| --- | --- |
+| Desktop | cmu_desktop |
+| Tablet | cmu_tablet|
+| Phone | cmu_phone |
+
+It is thus possible to create device-specific CSS rules. Another approach parallel to the CSS media queries.
